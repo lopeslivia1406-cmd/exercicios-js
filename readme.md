@@ -1,0 +1,1 @@
+Resolvendo exercícios de JavaScript.
